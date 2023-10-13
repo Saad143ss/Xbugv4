@@ -10,29 +10,29 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923156157942"
-global.ownername = "saad ibrahim"
-global.ytname = "YT: saad"
-global.socialm = "GitHub: saad143ss"
-global.location = "India, Mizoram, Aizawl"
+global.ownernomer = "923323963788"
+global.ownername = "Kamran Hasil"
+global.ytname = "K  A  M  I"
+global.socialm = "GitHub: kamran522"
+global.location = "BALOCHISTAN"
 
-global.ownernumber = '923156157942'  //creator number
-global.ownername = 'Saad ibrahim' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '923323963788'  //creator number
+global.ownername = 'Kamran Hasil' //owner name
+global.botname = 'K A M Iᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +923156157942'
+global.author = 'K A M I\n\nContact: +923323963788'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "K A M I."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/DNw2r2zMZIZGGuKXxxN2aY'
+global.link = 'https://chat.whatsapp.com/CKsZELVzMrrIVI9TDqAu8X'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -41,14 +41,14 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoread_status = false //auto view status/story
+global.autoread_status = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //reply messages
 global.mess = {
