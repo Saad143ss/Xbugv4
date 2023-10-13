@@ -1,35 +1,35 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
+//base by xbug (Xeon Bot Inc.)
+//YouTube: @saadibrahim900
+//Instagram: saadibrahim900
+//Telegram: t.me/saad143s
+//GitHub: @Saad143ss
+//WhatsApp: +923156157942
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923323963788"
-global.ownername = "Kamran Hasil"
-global.ytname = "K  A  M  I"
-global.socialm = "GitHub: kamran522"
-global.location = "BALOCHISTAN"
+global.ownernomer = "923156157942"
+global.ownername = "Saad ibrahim"
+global.ytname = "saadibrahim"
+global.socialm = "GitHub: Saad143ss"
+global.location = "Dg khan"
 
-global.ownernumber = '923323963788'  //creator number
-global.ownername = 'Kamran Hasil' //owner name
-global.botname = 'K A M Iᵇᵒᵗ' //name of the bot
+global.ownernumber = '923156157942'  //creator number
+global.ownername = 'Saad ibrahim' //owner name
+global.botname = 'Saadbug' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'K A M I\n\nContact: +923323963788'
+global.author = 'Saad\n\nContact: +923156157942'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "K A M I."
+global.wm = "Saad."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/CKsZELVzMrrIVI9TDqAu8X'
+global.link = 'https://chat.whatsapp.com/DNw2r2zMZIZGGuKXxxN2aY'
 
 //custom prefix
 global.prefa = ['']
