@@ -4,7 +4,7 @@
 //Telegram: t.me/saad143s
 //GitHub: @Saad143ss
 //WhatsApp: +923156157942
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Saadibrahim_900
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -18,7 +18,7 @@ global.location = "Dg khan"
 
 global.ownernumber = '923156157942'  //creator number
 global.ownername = 'Saad ibrahim' //owner name
-global.botname = 'Saadbug' //name of the bot
+global.botname = 'SaadXBUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -36,10 +36,10 @@ global.prefa = ['']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
 global.autoread_status = true //auto view status/story
 
