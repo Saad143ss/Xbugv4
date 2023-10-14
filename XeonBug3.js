@@ -949,12 +949,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `*Script:* https://youtu.be/Geo3tWsceVI`,
+                    text: `*Script:* script 😒 wa.me923156157942`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube @DGXeon`,
+                            body: `SCRIPT OF ${botname} is on YouTube @saadibrahim_900`,
                             thumbnailUrl: 'https://i.ibb.co/dQkXV2Y/Picsart-23-10-10-18-28-51-982.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -2173,6 +2173,7 @@ fliptext
 emojimix
 
 ╰┈➤ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
+addprem
 addvideo
 addimage
 addsticker
@@ -2180,6 +2181,7 @@ addvn
 addzip
 addapk
 addpdf
+delprem
 delvideo
 delimage
 delsticker
@@ -2187,6 +2189,7 @@ delvn
 delzip
 delapk
 delpdf
+listprem
 listvideo
 listimage
 liststicker
