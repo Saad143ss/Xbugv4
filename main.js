@@ -1,10 +1,10 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
+//YouTube: @saadibrahim_900
+//Instagram: Saadibrahim900
 //Telegram: t.me/saad143s
 //GitHub: @saad143ss
 //WhatsApp: +923156157942
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@saadibrahim_900
 
 require('./settings')
 const pino = require('pino')
@@ -172,11 +172,11 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Xeon`))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Saadibrahim_900`))
             console.log(chalk.magenta(`${themeemoji} GITHUB: DGXeon `))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @unicorn_xeon13 `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @Saadibrahim900 `))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${923156157942}`))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: ${923156157942}\n`))
         }
         if (
             connection === "close" &&
