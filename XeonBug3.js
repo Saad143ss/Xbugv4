@@ -1,10 +1,10 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @Saadibrahim_900
+//Instagram: saadibrahim900
+//Telegram: t.me/saad143s
+//GitHub: @saad143ss
+//WhatsApp: +923156157942
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@saadibrahim_900
 
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
