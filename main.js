@@ -173,7 +173,7 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
 	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Saadibrahim_900`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: DGXeon `))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: saad143ss `))
             console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @Saadibrahim900 `))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${923156157942}`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${923156157942}\n`))
