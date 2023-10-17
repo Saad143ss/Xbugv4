@@ -717,7 +717,7 @@ senddocu(buffer)
                 break
             case 'setppgroup':
             case 'setppgrup':
-            case 'setppgc':
+            case 'gpp':
                 if (!m.isGroup) return replygcxeon(mess.group)
                 if (!isAdmins) return replygcxeon(mess.admin)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
@@ -955,7 +955,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `SCRIPT OF ${botname} is on YouTube @saadibrahim_900`,
-                            thumbnailUrl: 'https://i.ibb.co/dQkXV2Y/Picsart-23-10-10-18-28-51-982.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/23889d7fb2fe56effd4bb.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2200,8 +2200,8 @@ listpdf
 
 ╰┈➤ ᴅᴏᴡɴ ᴍᴇɴᴜ
 play
-ytmp3
-ytmp4
+ytaudio
+ytvideo
 sound1 - sound161${mono}`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
