@@ -29,14 +29,14 @@ global.themeemoji = '🪀'
 global.wm = "Saad."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/DNw2r2zMZIZGGuKXxxN2aY'
+global.link = 'https://chat.whatsapp.com/EezTtwtXvT07VdTkcQnP5X'
 
 //custom prefix
 global.prefa = ['']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
+global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
