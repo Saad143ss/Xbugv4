@@ -1,9 +1,9 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @saadibrahim_900
-//Instagram: Saadibrahim900
-//Telegram: t.me/saad143s
-//GitHub: @saad143ss
-//WhatsApp: +923156157942
+//YouTube: @ZAINIKING_081
+//Instagram: Zainiking081
+//Telegram: t.me/zainiking71s
+//GitHub: @zainiking8ss
+//WhatsApp: +923077716993
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@saadibrahim_900
 
 require('./settings')
