@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Saad",
+    "author": "zaini",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
