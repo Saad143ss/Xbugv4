@@ -1,32 +1,32 @@
 //base by xbug (Xeon Bot Inc.)
-//YouTube: @saadibrahim900
-//Instagram: saadibrahim900
-//Telegram: t.me/saad143s
-//GitHub: @Saad143ss
-//WhatsApp: +923156157942
+//YouTube: @ZAINIKING_081
+//Instagram: Zainiking081
+//Telegram: t.me/zainiking71s
+//GitHub: @zainiking8ss
+//WhatsApp: +923077716993
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Saadibrahim_900
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923156157942"
-global.ownername = "Saad ibrahim"
-global.ytname = "saadibrahim"
-global.socialm = "GitHub: Saad143ss"
-global.location = "Dg khan"
+global.ownernomer = "923077716993"
+global.ownername = "ZAINI KING"
+global.ytname = "zainiking"
+global.socialm = "GitHub: zainiking8ss"
+global.location = "Multan"
 
-global.ownernumber = '923156157942'  //creator number
-global.ownername = 'Saad ibrahim' //owner name
-global.botname = 'SaadXBUG' //name of the bot
+global.ownernumber = '923077716993'  //creator number
+global.ownername = 'ZAINI KING' //owner name
+global.botname = 'ZAINIXBUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Saad\n\nContact: +923156157942'
+global.author = 'Zaini\n\nContact: +923077716993'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Saad."
+global.wm = "Zaini."
 
 //theme link
 global.link = 'https://chat.whatsapp.com/EezTtwtXvT07VdTkcQnP5X'
